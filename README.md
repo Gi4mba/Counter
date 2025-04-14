@@ -47,9 +47,13 @@ Apri index.html in un browser.
 
 Se stai usando VS Code, puoi installare l'estensione "Live Server" e avviare index.html direttamente.
 
+### Opzione 3 (Sola lettura): Web App
+
+URL del progetto: https://counter-dd885.firebaseapp.com
+
 
 # Screenshot
-![Immagine 2025-03-27 204551](https://github.com/user-attachments/assets/34fd0265-05eb-4b66-871e-72b62520250a)
+![Preview](https://github.com/user-attachments/assets/6cc499bd-f8e2-4b54-ab9b-3cbaa90abbc9)
 
 
 # Personalizzazione
