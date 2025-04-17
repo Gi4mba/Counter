@@ -21,7 +21,7 @@ Alla creazione del counter:
 # Struttura del Progetto
 
 ```
-Counter/
+Counter/Public
 ├── assets/
 │   ├── css/
 │   │   ├── style.css
@@ -30,8 +30,8 @@ Counter/
 │   │   └── script.js
 │   └── scss/
 │       └── style.scss
-├── index.html
-└── README.md
+└── index.html
+README.md
 ```
 
 
@@ -49,7 +49,7 @@ Se stai usando VS Code, puoi installare l'estensione "Live Server" e avviare ind
 
 
 # Screenshot
-![Immagine 2025-03-27 204551](https://github.com/user-attachments/assets/34fd0265-05eb-4b66-871e-72b62520250a)
+![Counter Preview](public/assets/img/Preview.png)
 
 
 # Personalizzazione
